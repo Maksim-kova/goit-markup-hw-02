@@ -13,7 +13,7 @@ button{
     font-weight: 700;
     text-transform: uppercase;
     line-height: 21px;
-    letter-spacing: -0.03em;
+    letter-spacing: 0.03em;
     word-wrap: break-word;
     color: #4D5AE5;
     }
@@ -28,7 +28,7 @@ button{
              font-family:  'Roboto','Raleway', sans-serif;
             font-weight: 500;
             line-height: 1.5;
-            letter-spacing: -0,02;
+            letter-spacing: 0,02em;
             word-wrap: break-word;
              color: #2E2F42;
     }
@@ -37,25 +37,61 @@ button{
             font-family: 'Roboto', 'Raleway', sans-serif;
             font-weight: 500;
             line-height: 1.5;
-            letter-spacing: -0.02;
+            letter-spacing: 0.02em;
             word-wrap: break-word;
             color: #404BBF;
     }
     .menu-link{
-        color: #2E2F42;
             font-size: 16px;
              font-family: 'Roboto', 'Raleway', sans-serif;
             font-weight: 500;
             line-height: 1.5;
-            letter-spacing: -0.02;
+            letter-spacing: 0.02em;
             word-wrap: break-word;
+            color: #2E2F42;
     }
     .kontaks{
             font-size: 16px;
             font-family: 'Roboto', 'Raleway', sans-serif;
             font-weight: 400;
             line-height: 1.5;
-            letter-spacing: -0.02;
+            letter-spacing: 0.02em;
             word-wrap: break-word;
             color: #434455;
+    }
+    /* -------girov------ */
+    .girov-van{
+            color: #434455;
+            font-size: 10px;
+            font-family: Roboto;
+            font-weight: 500;
+            text-transform: uppercase;
+    }
+    .girov-text{
+    font-size: 56px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 0.93;
+    letter-spacing: 0.02em;
+    word-wrap: break-word;
+    color: white;
+    }
+    .button{
+            font-size: 16px;
+            font-family: Roboto;
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            word-wrap: break-word;
+            color: white;
+    }
+    /* -------1 secion----- */
+    .portfoio-main{
+        font-size: 20px;
+        font-family: Roboto;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.40px;
+        word-wrap: break-word;
+        color: #2E2F42;
     }
