@@ -10,8 +10,8 @@ ul,ol{
 a{
     text-decoration: none
 }
-.menu-link-hirov:hover,
-.menu-link-hirov:focus {
+.list:hover,
+.list:focus {
 color: #404bbf
 }
 .logo{
@@ -29,13 +29,7 @@ color: #404bbf
             font-weight: 700;
             color: #2E2F42;
     } 
-    .menu-link-hirov{
-            font-size: 16px;
-            font-weight: 500;
-            line-height: 1.5;
-            letter-spacing: 0,02em;
-             color: #2E2F42;
-    }
+
   .samp-stud   { 
            font-size: 16px;
             font-weight: 500;
