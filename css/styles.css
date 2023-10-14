@@ -2,7 +2,7 @@ ul,ol{
     list-style-type: none;
 }
 .body{
-font-family: "Roboto";
+font-family: "Roboto", sans-serif;
 color: #434455;
 background-color:#FFFFFF
 }
@@ -157,7 +157,7 @@ a{
                 font-family: "Raleway", sans-serif
                 font-weight: 700;
                 text-transform: uppercase;
-                line-height: 1.16;
+                line-height: 1.5;
                 letter-spacing: 0.02em;
                 color: #F4F4FD;
     }
@@ -165,7 +165,7 @@ a{
                 font-size: 16px;
                 font-family: "Raleway", sans-serif
                 font-weight: 400;
-                line-height: 1.16;
+                line-height: 1.5;
                 letter-spacing: 0.02em;
                 color: #F4F4FD;
     }
