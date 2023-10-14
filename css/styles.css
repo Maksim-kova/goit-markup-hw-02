@@ -6,8 +6,13 @@ ul,ol{
     color:#434455;
     background-color:#ffffff;
 }
+
 a{
     text-decoration: none
+}
+.menu-link-hirov:hover,
+.menu-link-hirov:focus {
+color: #404bbf
 }
 .logo{
     font-family: "Raleway", sans-serif;
@@ -24,7 +29,7 @@ a{
             font-weight: 700;
             color: #2E2F42;
     } 
-    .menu-link{
+    .menu-link-hirov{
             font-size: 16px;
             font-weight: 500;
             line-height: 1.5;
@@ -69,7 +74,6 @@ a{
     color:white;
     }
     .button{
-           font-family: roboto;
             font-size: 16px;
             font-weight: 500;
             line-height: 1.5;
