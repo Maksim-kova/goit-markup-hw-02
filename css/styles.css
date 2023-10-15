@@ -16,7 +16,7 @@ color: #404bbf
 }
 .list-stail:hover,
 .list-stail:focus {
-color: #404BBF;
+background-color: #404BBF;
 }
 .logo{
     font-family: "Raleway", sans-serif;
@@ -89,7 +89,7 @@ color: #404BBF;
     }
     /* ------------section-2------------ */
     .team{
-          background-color: #F4F4FD;
+        background-color:#F4F4FD;
     }
     .team-link{
                text-align: center;
@@ -99,7 +99,10 @@ color: #404BBF;
                 line-height: 1.11;
                 letter-spacing: 0.02em;
                 color: #2E2F42;
-    }       
+    }      
+    .team-class-main {
+        background-color: #FFFFFF;
+    }
     .team-name{
                 font-size: 20px;
                 font-weight: 500;
